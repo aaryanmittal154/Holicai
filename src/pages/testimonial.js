@@ -15,7 +15,7 @@ export default function Testimonials() {
         />
         <meta
           name="keywords"
-          content="HolicAI, AI-driven web development, affiliate marketing, edtech, web development course, AI-powered learning, front-end development, back-end development, AI tools"
+          content="HolicAI, holic ai, Holic AI, holic AI, holicai, AI-driven web development, affiliate marketing, edtech, web development course, AI-powered learning, front-end development, back-end development, AI tools"
         />
         <link rel="icon" href="/logo_holicai.ico" />
       </Head>
