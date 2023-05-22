@@ -6,15 +6,27 @@ export default function Blog() {
   return (
     <>
       <Head>
-        <title>HolicAI - Master AI-Driven Web Development</title>
+        <title>Blog - Holic AI</title>
         <meta
           name="description"
-          content="HolicAI offers AI-driven web development courses and a lucrative affiliate marketing program. Learn cutting-edge skills and earn from promoting our high-quality edtech content."
+          content="Explore the world of AI with Holic AI Blog. We are preparing to launch a revolutionary AI blogging platform, featuring in-depth articles, expert opinions, and the latest breakthroughs in the industry."
         />
         <meta
           name="keywords"
-          content="HolicAI, holic ai, Holic AI, holic AI, holicai, AI-driven web development, affiliate marketing, edtech, web development course, AI-powered learning, front-end development, back-end development, AI tools"
+          content="Holic AI, Holic AI Private Limited, holic ai, HolicAI, holic AI, holicai, AI blog, AI-driven web development, AI news, AI articles, AI insights"
         />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="language" content="EN" />
+        <meta name="robots" content="index,follow" />
+        <link rel="canonical" href="https://www.holicai.com/blog" />
+        <meta property="og:title" content="Blog - Holic AI" />
+        <meta
+          property="og:description"
+          content="Explore the world of AI with Holic AI Blog. We are preparing to launch a revolutionary AI blogging platform, featuring in-depth articles, expert opinions, and the latest breakthroughs in the industry."
+        />
+        <meta property="og:image" content="/logo_holicai.ico" />
+        <meta property="og:url" content="https://www.holicai.com/blog" />
+        <meta property="og:type" content="website" />
         <link rel="icon" href="/logo_holicai.ico" />
       </Head>
       <Header />

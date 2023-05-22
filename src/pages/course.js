@@ -21,16 +21,45 @@ function Course() {
   return (
     <div>
       <Head>
-        <title>HolicAI - Master AI-Driven Web Development</title>
+        <title>Holic AI - Master AI-Driven Web Development Course</title>
         <meta
           name="description"
-          content="HolicAI offers AI-driven web development courses and a lucrative affiliate marketing program. Learn cutting-edge skills and earn from promoting our high-quality edtech content."
+          content="Join the Holic AI Web development course to become a next GEN frontend web developer, freelancer, entrepreneur in less than a day. Learning everything from frontend web development to making money from it!"
         />
         <meta
           name="keywords"
-          content="HolicAI, holic ai, Holic AI, holic AI, holicai, AI-driven web development, affiliate marketing, edtech, web development course, AI-powered learning, front-end development, back-end development, AI tools"
+          content="Holic AI, Holic AI Private Limited, holic ai, HolicAI, holic AI, holicai, AI-driven web development, affiliate marketing, edtech, web development course, AI-powered learning, front-end development, back-end development, AI tools"
         />
+        <meta name="language" content="EN" />
+        <meta name="robots" content="index,follow" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="canonical" href="https://www.holicai.com/course" />
+        <meta
+          property="og:title"
+          content="HolicAI Private Limited - Master AI-Driven Web Development"
+        />
+        <meta
+          property="og:description"
+          content="Join the Holic AI Web development course to become a next GEN frontend web developer, freelancer, entrepreneur in less than a day. Learning everything from frontend web development to making money from it!"
+        />
+        <meta property="og:image" content="/logo_holicai.ico" />
+        <meta property="og:url" content="https://www.holicai.com/course" />
+        <meta property="og:type" content="website" />
         <link rel="icon" href="/logo_holicai.ico" />
+        <script type="application/ld+json">
+          {`
+          {
+            "@context": "https://schema.org",
+            "@type": "Course",
+            "name": "Master AI-Driven Web Development",
+            "description": "Join the Holic AI Web development course to become a next GEN frontend web developer, freelancer, entrepreneur in less than a day. Learning everything from frontend web development to making money from it!",
+            "provider": {
+              "@type": "Organization",
+              "name": "Holic AI Private Limited"
+            }
+          }
+        `}
+        </script>
       </Head>
       <Header />
       {/* <PopUp /> */}

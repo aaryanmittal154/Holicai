@@ -8,15 +8,30 @@ export default function Feedback() {
   return (
     <>
       <Head>
-        <title>HolicAI - Master AI-Driven Web Development</title>
+        <title>Feedback - Holic AI</title>
         <meta
           name="description"
-          content="HolicAI offers AI-driven web development courses and a lucrative affiliate marketing program. Learn cutting-edge skills and earn from promoting our high-quality edtech content."
+          content="We value your opinion at Holic AI. Our feedback page is under development and we look forward to hearing your thoughts on our AI-driven web development courses and affiliate marketing program."
         />
         <meta
           name="keywords"
-          content="HolicAI, holic ai, Holic AI, holic AI, holicai, AI AI-driven web development, affiliate marketing, edtech, web development course, AI-powered learning, front-end development, back-end development, AI tools"
+          content="Holic AI, Holic AI Private Limited, holic ai, HolicAI, holic AI, holicai, AI-driven web development, affiliate marketing, edtech, web development course, AI-powered learning, front-end development, back-end development, AI tools, feedback, customer feedback"
         />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="language" content="EN" />
+        <meta name="robots" content="index,follow" />
+        <link rel="canonical" href="https://www.holicai.com/feedback" />
+        <meta
+          property="og:title"
+          content="Feedback - HolicAI's AI-Driven Web Development Courses"
+        />
+        <meta
+          property="og:description"
+          content="We value your opinion at HolicAI. Our feedback page is under development and we look forward to hearing your thoughts on our AI-driven web development courses and affiliate marketing program."
+        />
+        <meta property="og:image" content="/logo_holicai.ico" />
+        <meta property="og:url" content="https://www.holicai.com/feedback" />
+        <meta property="og:type" content="website" />
         <link rel="icon" href="/logo_holicai.ico" />
       </Head>
       <Header />
@@ -26,9 +41,11 @@ export default function Feedback() {
             Feedback - Coming Soon
           </h1>
           <p className="text-gray-700 text-lg">
-            We value your opinion and look forward to receiving your feedback.
-            Our Feedback page is under development, and we will be launching it
-            soon. Stay tuned and get ready to share your thoughts with us!
+            At HolicAI, we highly value your opinions and feedback. Our
+            dedicated feedback page is currently under development. We are
+            excited about launching it soon to gather your thoughts and
+            experiences about our AI-driven web development courses and
+            affiliate marketing program. Stay tuned!
           </p>
           <div className="flex justify-center mt-8">
             <Link legacyBehavior href="/">

@@ -13,15 +13,27 @@ export default function Careers() {
     <>
       <div>
         <Head>
-          <title>HolicAI - Master AI-Driven Web Development</title>
+          <title>Careers - Holic AI</title>
           <meta
             name="description"
-            content="HolicAI offers AI-driven web development courses and a lucrative affiliate marketing program. Learn cutting-edge skills and earn from promoting our high-quality edtech content."
+            content="Discover a fulfilling career at Holic AI. Join our team and be a part of our mission to revolutionize web development through AI-driven solutions. Explore our values, perks, and open positions."
           />
           <meta
             name="keywords"
-            content="HolicAI, holic ai, Holic AI, holic AI, holicai, AI-driven web development, affiliate marketing, edtech, web development course, AI-powered learning, front-end development, back-end development, AI tools"
+            content="Holic AI, Holic AI Private Limited, holic ai, HolicAI, holic AI, holicai, careers, AI-driven web development, jobs in tech, edtech careers, web development careers"
           />
+          <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <meta name="language" content="EN" />
+          <meta name="robots" content="index,follow" />
+          <link rel="canonical" href="https://www.holicai.com/careers" />
+          <meta property="og:title" content="Careers - Holic AI" />
+          <meta
+            property="og:description"
+            content="Discover a fulfilling career at Holic AI. Join our team and be a part of our mission to revolutionize web development through AI-driven solutions. Explore our values, perks, and open positions."
+          />
+          <meta property="og:image" content="/logo_holicai.ico" />
+          <meta property="og:url" content="https://www.holicai.com/careers" />
+          <meta property="og:type" content="website" />
           <link rel="icon" href="/logo_holicai.ico" />
         </Head>
         <Header />
