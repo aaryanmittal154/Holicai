@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import Link from "next/link";
 
 const fadeInUp = {
   initial: { opacity: 0, y: 60 },
@@ -57,12 +58,10 @@ const SectionOne = () => {
           <motion.div className="mt-8" variants={fadeInUp}>
             <div className="relative group inline-block">
               <button className="bg-purple-600 text-white font-bold text-2xl py-2 px-4 rounded-lg shadow-lg hover:bg-purple-800 transition duration-300">
-                Enroll Now 🎓 in just $200
+                <Link href="https://course.holicai.com/">
+                  Enroll Now 🎓 in just $200
+                </Link>{" "}
               </button>
-              <span className="hidden absolute bottom-full left-1/2 transform -translate-x-1/2 translate-y-2 px-6 py-4 text-sm text-white bg-gray-700 rounded shadow-lg group-hover:block">
-                This button currently does not connect to any link as the course
-                is under process and has not been launched yet.
-              </span>
             </div>
           </motion.div>
         </div>
