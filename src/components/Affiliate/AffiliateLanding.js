@@ -28,7 +28,7 @@ const AffiliateLanding = () => {
       <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-600 opacity-10"></div>
       <div className="absolute inset-0 flex items-center justify-center px-4">
         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-center">
-          EARN UPTO <span className="text-purple-500"> $50 </span> WITH EACH
+          EARN UPTO <span className="text-purple-500"> $100 </span> WITH EACH
           SALE!
         </h1>
       </div>
