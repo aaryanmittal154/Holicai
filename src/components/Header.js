@@ -22,8 +22,8 @@ export default function Header() {
             <Link legacyBehavior href="/affiliate">
               <a className="text-gray-800 hover:text-gray-600">Affiliate</a>
             </Link>
-            <Link legacyBehavior href="/blog">
-              <a className="text-gray-800 hover:text-gray-600">Blog</a>
+            <Link legacyBehavior href="https://holicai.tech/">
+              <a className="text-gray-800 hover:text-gray-600">Consultancy</a>
             </Link>
             <Link legacyBehavior href="/contact">
               <a className="text-gray-800 hover:text-gray-600">Contact</a>

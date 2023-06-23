@@ -53,10 +53,10 @@ const Footer = () => {
             </Link>
             <Link
               legacyBehavior
-              href="/blog"
+              href="https://holicai.tech/"
               className="text-gray-300 hover:text-white transition duration-300"
             >
-              Blog
+              Consultancy
             </Link>
             <Link
               legacyBehavior
@@ -86,17 +86,17 @@ const Footer = () => {
             </Link>
             <Link
               legacyBehavior
+              href="/blog"
+              className="text-gray-300 hover:text-white transition duration-300"
+            >
+              Blog
+            </Link>
+            <Link
+              legacyBehavior
               href="/testimonial"
               className="text-gray-300 hover:text-white transition duration-300"
             >
               Testimonial
-            </Link>
-            <Link
-              legacyBehavior
-              href="/feedback"
-              className="text-gray-300 hover:text-white transition duration-300"
-            >
-              Feedback
             </Link>
           </nav>
         </div>
