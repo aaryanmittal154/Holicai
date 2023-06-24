@@ -50,10 +50,10 @@ const DescriptionAI = () => {
               transition: { delay: 0.4, duration: 1 },
             }}
           >
-            Holic provides next-generation learning experiences by integrating
-            cutting-edge AI technology. With personalized learning paths,
-            adaptive quizzes, and intelligent recommendations, you will master
-            web development faster than ever regardless of your background.
+            Holic AI provides next-generation learning experiences by
+            integrating cutting-edge AI technology. With a super fast course, you
+            will master web development faster than ever regardless of your
+            background.
           </motion.p>
           <motion.p
             className="text-gray-300 text-lg mb-8"
