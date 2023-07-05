@@ -54,7 +54,7 @@ export default function Home() {
         </script>
       </Head>
       <Header />
-      <PopUp />
+      {/* <PopUp /> */}
       <LandingVideo />
       <DescriptionAI />
       <ParallaxAI />

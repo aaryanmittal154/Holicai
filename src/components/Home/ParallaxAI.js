@@ -3,8 +3,8 @@ import { Parallax } from "react-parallax";
 import Link from "next/link";
 
 const ParallaxAI = () => {
-  const [isSmallScreen, setIsSmallScreen] = useState(false);
-
+  const [isSmallScreen, setIsSmallScreen] = useState(false)
+  
   useEffect(() => {
     if (typeof window !== "undefined") {
       setIsSmallScreen(window.innerWidth <= 768);
