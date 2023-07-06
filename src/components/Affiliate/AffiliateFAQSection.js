@@ -24,7 +24,7 @@ const AffiliateFAQSection = () => {
       id: 3,
       question: "When and how do I get paid?",
       answer:
-        "Commissions are paid on a monthly basis, with a minimum payout threshold. Payments are made via PayPal or bank transfer, depending on your preferences.",
+        "Commissions are paid on sales basis, with a minimum payout threshold. Payments are made via PayPal or bank transfer, depending on your preferences.",
     },
     {
       id: 4,
@@ -37,7 +37,7 @@ const AffiliateFAQSection = () => {
       id: 5,
       question: "What promotional materials are provided to affiliates?",
       answer:
-        "No, we do not provide any promotional materials to affiliates. It is your responsibility to create your own promotional materials, such as banners, ads, and landing pages. However, we do provide a list of recommended resources to help you get started.",
+        "You can create your own promotional materials, such as banners, ads, and landing pages. However, we do provide a list of recommended resources to help you get started.",
     },
   ];
 

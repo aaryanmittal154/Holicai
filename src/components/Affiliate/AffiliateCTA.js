@@ -46,7 +46,7 @@ const AffiliateCTA = () => {
             className="mt-2 text-xl text-gray-300 mx-auto"
             variants={fadeInUp}
           >
-            Promote our top-notch course & earn up to 50% commission!
+            Promote our top-notch course & earn commission!
           </motion.p>
           <motion.p
             className="mt-2 text-xl text-gray-300 mx-auto"

@@ -39,7 +39,7 @@ const WhatIsCourse = () => {
               CHEAP
             </span>
             <p className="font-bold text-center text-3xl">
-              It is only <br /> $200
+              It is only <br /> $250
             </p>
           </div>
         </div>
@@ -58,7 +58,7 @@ const WhatIsCourse = () => {
           </p>
           <div className="relative group inline-block">
             <button className="bg-purple-600 text-white font-bold text-2xl py-2 px-4 rounded-lg shadow-lg hover:bg-purple-800 transition duration-300">
-              Enroll Now 🎓 in just $200
+              Enroll Now 🎓 in just $250
             </button>
             <span className="hidden absolute bottom-full left-1/2 transform -translate-x-1/2 translate-y-2 px-6 py-4 text-sm text-white bg-gray-700 rounded shadow-lg group-hover:block">
               This button currently does not connect to any link as the course

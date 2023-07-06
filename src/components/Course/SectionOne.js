@@ -59,7 +59,7 @@ const SectionOne = () => {
             <div className="relative group inline-block">
               <button className="bg-purple-600 text-white font-bold text-2xl py-2 px-4 rounded-lg shadow-lg hover:bg-purple-800 transition duration-300">
                 <Link href="https://course.holicai.com/">
-                  Enroll Now 🎓 in just $200
+                  Enroll Now 🎓 in just $250
                 </Link>{" "}
               </button>
             </div>

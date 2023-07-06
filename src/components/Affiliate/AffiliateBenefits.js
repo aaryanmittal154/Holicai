@@ -16,13 +16,13 @@ const benefits = [
       "Earn passive income by promoting products and services to your audience. Set up your affiliate links and receive commissions on every sale made through those links.",
   },
   {
-    title: "Flexibility",
+    title: "Full Flexibility",
     icon: <FaLaptop />,
     description:
       "Experience the flexibility of affiliate marketing, allowing you to work from anywhere, anytime, and choose which products and services you want to promote. You get to decide EVERYTHING!",
   },
   {
-    title: "Low Start-up Costs",
+    title: "No Start-up Costs",
     icon: <FaDollarSign />,
     description:
       "With no need for inventory or shipping management, affiliate marketing provides a low-cost business opportunity. Start your own venture without investing a large sum upfront.",

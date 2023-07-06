@@ -47,7 +47,7 @@ const CourseFAQ = () => {
     {
       id: 7,
       question: "Will I receive a certificate upon completion?",
-      answer: "No, we do not offer certificates at this time.",
+      answer: "Yes, we offer certificates upon completion of the course.",
     },
     {
       id: 8,
