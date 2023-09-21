@@ -40,6 +40,7 @@ const AffiliateForm = () => {
       agree: e.target.checked,
     });
   };
+
   const handleCheckbox1 = (e) => {
     setFormData({
       ...formData,
