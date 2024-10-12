@@ -226,7 +226,7 @@ const AffiliateForm = () => {
                 id="otherLink"
                 name="otherLink"
                 value={formData.otherLink}
-                placeholder="Enter any other relevant link"
+                placeholder="Enter any other  link"
                 className="w-full p-2 mb-4 border-b border-gray-300 text-white bg-transparent focus:outline-none focus:border-purple-500"
                 onChange={handleChange}
               />
